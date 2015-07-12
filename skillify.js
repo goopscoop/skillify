@@ -1,3 +1,5 @@
+
+
 ExploreWidget.directive( 'cbSkillify', function(){
 
   var link = function( scope, element, attrs ){
@@ -86,3 +88,5 @@ ExploreWidget.directive( 'cbSkillify', function(){
   }
 
 });
+
+// Skillify was created by S. Cody Barrus. Portfolio - http://codybarrus.com Github - https://github.com/goopscoop/
