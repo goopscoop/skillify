@@ -1,4 +1,4 @@
-ExploreWidget.directive( 'cbSkills', function(){
+ExploreWidget.directive( 'cbSkillify', function(){
 
   var link = function( scope, element, attrs ){
     scope.allFrameworks = {}
