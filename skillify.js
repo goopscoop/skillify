@@ -1,6 +1,6 @@
 
 
-ExploreWidget.directive( 'cbSkillify', function(){
+angular.directive( 'cbSkillify', function(){
 
   var link = function( scope, element, attrs ){
     scope.allFrameworks = {}
