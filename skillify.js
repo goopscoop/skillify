@@ -45,7 +45,6 @@ angular.directive( 'cbSkillify', function(){
       scope.displayProjectProperties = $.grep(scope.skills, function( e ){
         return e.name === project;
       });
-        console.log(scope.displayProjectProperties)
     }
 
     scope.skills.forEach( function( el, ind, arr ){
