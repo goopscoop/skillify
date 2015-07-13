@@ -78,7 +78,7 @@ angular.directive( 'cbSkillify', function(){
 
   return {
     restrict: 'E',
-    templateUrl: '/js/skillsWidget.html',
+    templateUrl: 'skillify.html',
     replace: true,
     scope: {
       skills: "="
